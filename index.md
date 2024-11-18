@@ -9,7 +9,7 @@ Yu-Xiang Wang
 ## Questions
 **What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic covered in the domain so far has been learning about all the different mechanisms and how they are used to guarantee privacy. A lot of the mechanisms seem like puzzles, figuring out creative ways to add noise or obfuscate information as to guarantee privacy. For example, the exponential mechanism only releases a maximum. A binary tree mechanism can release partial sums of the data but does so in a way that only realeases $n\log n$ times. It's pretty interesting.
+The most interesting topic covered in the domain so far has been learning about all the different mechanisms and how they are used to guarantee privacy. A lot of the mechanisms seem like puzzles, figuring out creative ways to add noise or obfuscate information as to guarantee privacy. For example, the exponential mechanism only releases a maximum. A binary tree mechanism can release partial sums of the data but does so in a way that only realeases *n log(n)* times. It's pretty interesting.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
